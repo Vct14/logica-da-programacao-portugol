@@ -1,1 +1,1 @@
-# logica-da-programacao-portugol
+# Logica-da-Programação-Portugol
